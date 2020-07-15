@@ -90,7 +90,8 @@ In the cell below define a function called `average_word_length` that receives a
 
 ```python
 # Your code here
-
+def average_word_length(text):
+    pass
 ```
 
 Now, we apply our function to every policy and add the output as column.
@@ -120,7 +121,8 @@ In the cell below, define a function called `word_count` that receives a single 
 
 ```python
 # Your code here
-
+def word_count(text):
+    pass
 ```
 
 Nice. Now we apply the function to our entire dataset, and save the output as a column
@@ -194,7 +196,8 @@ Are there any words here that should be added to our list of stopwords?
 
 ```python
 # Your code here
-
+def word_frequency(documents):
+    pass
 ```
 
 Now, we can feed all of sanders policies into our `word_frequency` functions and receive a fitted `FreqDist` object
