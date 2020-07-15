@@ -233,7 +233,8 @@ In the cell below define a function called `average_word_length` that receives a
 
 ```python
 # Your code here
-
+def average_word_length(text):
+    pass
 ```
 
 
@@ -360,7 +361,8 @@ In the cell below, define a function called `word_count` that receives a single 
 
 ```python
 # Your code here
-
+def word_count(text):
+    pass
 ```
 
 
@@ -582,7 +584,8 @@ Are there any words here that should be added to our list of stopwords?
 
 ```python
 # Your code here
-
+def word_frequency(documents):
+    pass
 ```
 
 
